@@ -13,7 +13,7 @@ Toàn bộ miễn phí: ảnh chụp bằng Chrome, giọng bằng edge-tts, n�
 
 ## Quy trình
 
-Đặt `SK=~/.claude/skills/social-qa-video`. Mỗi video là một thư mục project riêng.
+Đặt `SK=${CLAUDE_SKILL_DIR}` (thư mục của skill này; cài thủ công thì là `~/.claude/skills/social-qa-video`). Mỗi video là một thư mục project riêng.
 
 ### 1. Lấy nội dung
 

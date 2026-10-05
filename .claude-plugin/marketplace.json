@@ -1,0 +1,8 @@
+{
+  "name": "social-qa-video",
+  "owner": { "name": "Annie-246", "url": "https://github.com/Annie-246" },
+  "description": "Biến bài hỏi-đáp trên Threads/Facebook thành video dọc 9:16: ảnh chụp thật của bài đăng và bình luận trôi trên nền phong cảnh, giọng đọc tiếng Việt, nhạc nền.",
+  "plugins": [
+    { "name": "social-qa-video", "displayName": "Social QA Video", "source": "./", "description": "Biến bài hỏi-đáp trên Threads/Facebook thành video dọc 9:16: ảnh chụp thật của bài đăng và bình luận trôi trên nền phong cảnh, giọng đọc tiếng Việt, nhạc nền." }
+  ]
+}
